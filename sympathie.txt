@@ -1,0 +1,7 @@
+
+
+
+
+monFichier = open('sympa.xml','r')
+monTexte = monFichier.read()
+print(monTexte)
